@@ -1,0 +1,14 @@
+C:\Users\vinic\OneDrive\Área de Trabalho\OOP\OOPMessage1\LotteryPanels\LotteryPanels\obj\Debug\net8.0\LotteryPanels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Área de Trabalho\OOP\OOPMessage1\LotteryPanels\LotteryPanels\obj\Debug\net8.0\LotteryPanels.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\OOP\OOPMessage1\LotteryPanels\LotteryPanels\obj\Debug\net8.0\LotteryPanels.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\OOP\OOPMessage1\LotteryPanels\LotteryPanels\obj\Debug\net8.0\LotteryPanels.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\OOP\OOPMessage1\LotteryPanels\LotteryPanels\bin\Debug\net8.0\LotteryPanels.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\OOP\OOPMessage1\LotteryPanels\LotteryPanels\bin\Debug\net8.0\LotteryPanels.deps.json
+C:\Users\vinic\OneDrive\Área de Trabalho\OOP\OOPMessage1\LotteryPanels\LotteryPanels\bin\Debug\net8.0\LotteryPanels.runtimeconfig.json
+C:\Users\vinic\OneDrive\Área de Trabalho\OOP\OOPMessage1\LotteryPanels\LotteryPanels\bin\Debug\net8.0\LotteryPanels.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\OOP\OOPMessage1\LotteryPanels\LotteryPanels\bin\Debug\net8.0\LotteryPanels.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\OOP\OOPMessage1\LotteryPanels\LotteryPanels\obj\Debug\net8.0\LotteryPanels.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\OOP\OOPMessage1\LotteryPanels\LotteryPanels\obj\Debug\net8.0\refint\LotteryPanels.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\OOP\OOPMessage1\LotteryPanels\LotteryPanels\obj\Debug\net8.0\LotteryPanels.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\OOP\OOPMessage1\LotteryPanels\LotteryPanels\obj\Debug\net8.0\LotteryPanels.genruntimeconfig.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\OOP\OOPMessage1\LotteryPanels\LotteryPanels\obj\Debug\net8.0\ref\LotteryPanels.dll
